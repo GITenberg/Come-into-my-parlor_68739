@@ -1,0 +1,35 @@
+_repo: Come-into-my-parlor_68739
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+creator:
+  author:
+    agent_name: Fritch, Charles E.
+    birthdate: 1927
+    deathdate: 2012
+    gutenberg_agent_id: '33342'
+    url: http://www.gutenberg.org/2009/agents/33342
+    wikipedia: https://en.wikipedia.org/wiki/Charles_E._Fritch
+description: ''
+gutenberg_issued: '2022-08-13'
+identifiers:
+  gutenberg: '68739'
+language: en
+pgterms:marc905: 20220526162814fritch
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Future Publications, Inc.,1953.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Come into my parlor
+url: http://www.gutenberg.org/ebooks/68739
